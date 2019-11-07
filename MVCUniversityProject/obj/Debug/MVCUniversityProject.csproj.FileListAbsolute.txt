@@ -191,4 +191,3 @@ C:\Users\1627727\source\repos\MVCUniversityProject\MVCUniversityProject\bin\Enti
 C:\Users\1627727\source\repos\MVCUniversityProject\MVCUniversityProject\bin\EntityFramework.SqlServer.dll
 C:\Users\1627727\source\repos\MVCUniversityProject\MVCUniversityProject\bin\EntityFramework.xml
 C:\Users\1627727\source\repos\MVCUniversityProject\MVCUniversityProject\bin\EntityFramework.SqlServer.xml
-C:\Users\1627727\source\repos\MVCUniversityProject\MVCUniversityProject\obj\Debug\MVCUniversityProject.csprojAssemblyReference.cache
